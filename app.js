@@ -5,3 +5,6 @@ function handleTitleClick() {
 }
 
 title.addEventListener("click", handleTitleClick);
+
+let a = parseInt("2");
+console.log(typeof a);
