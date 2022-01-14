@@ -1,0 +1,27 @@
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+.wrap {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.violet {
+  background-color: #9b59b6;
+}
+
+.yellow {
+  background-color: #e6d056;
+}
+
+.blue {
+  background-color: #3498db;
+}
+
+.title {
+  color: whitesmoke;
+}
