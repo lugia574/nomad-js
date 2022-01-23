@@ -2,6 +2,9 @@
 
 @import "reset.css";
 
+/* components */
+@import "components/status-bar.css";
+
 .hidden {
   display: none;
 }
@@ -15,7 +18,6 @@ img {
   right: 0px;
   bottom: 0px;
   z-index: -1;
-  opacity: 0.8;
 }
 
 .wrap {
