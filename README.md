@@ -9,7 +9,7 @@
 
 [사이트](https://nomadcoders.co/javascript-for-beginners/lectures/1705t)
 
-# JavaScript 따로 공부하기
+# JavaScript 재입문하기
 
 계속 공부를 하면서 느낀점은
 
@@ -17,6 +17,6 @@
 
 좀 더 심화 공부가 필요한 바
 
-[참고 사이트](https://developer.mozilla.org/ko/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+[JavaScript 재입문하기](https://developer.mozilla.org/ko/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 여기서 싹 돌아보면서 공부를 하도록 하자
