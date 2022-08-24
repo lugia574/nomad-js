@@ -17,6 +17,8 @@
 
 좀 더 심화 공부가 필요한 바
 
+[JavaScript 생활코딩](https://opentutorials.org/course/743)
+
 [JavaScript 재입문하기](https://developer.mozilla.org/ko/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 여기서 싹 돌아보면서 공부를 하도록 하자
